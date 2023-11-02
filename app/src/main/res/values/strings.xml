@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">dota_market</string>
+    <string name="banner_desc">Dota banner</string>
+    <string name="desc">Dota 2 is a multiplayer online battle arena (MOBA) game which has two teams of five players compete to collectively destroy a large structure defended by the opposing team know as the "Ancient", whilst defending their own.</string>
+    <string name="review_n_ratings">Review &amp; Ratings</string>
+    <string name="rev_quant">70M Reviews</string>
+    <string name="man1_name">Auguste Conte</string>
+    <string name="man1_date">February 14, 2019</string>
+    <string name="man2_name">Jang Marcelino</string>
+    <string name="comment">&#8220;Once you start to learn its secrets, there is a wild and exciting variety of play here that is unmatched, even by its peers.&#8221;</string>
+</resources>
